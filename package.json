@@ -1,0 +1,13 @@
+
+{
+  "name": "nexora-it-backend",
+  "version": "1.0.0",
+  "description": "NEXORA IT Telegram order backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
